@@ -4,7 +4,7 @@
 
 I'm currently working as a Software Developer🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️.
 
-<img align="right" height="200" width="300" alt="" src="6888372964aafeed19614984af6efd9d_i-passed-every-coding-challenge-at-flatiron-school-on-my-first-try-_800-600.gif" />
+<img align="right" height="200" width="300" alt="" src="https://github.com/aastharawat/aastharawat/blob/master/6888372964aafeed19614984af6efd9d_i-passed-every-coding-challenge-at-flatiron-school-on-my-first-try-_800-600.gif" />
 
 ### Talking about Personal Stuffs:
 
