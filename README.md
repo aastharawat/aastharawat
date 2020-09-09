@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Aastha!](https://github.com/aastharawat/)
+## Hey 👋, I'm [Aastha!](https://aastharawat.github.io/)
 
 ### Glad to see you here!
 
